@@ -1,5 +1,5 @@
 <h1>Hi, I'm Orion! <br/>
-<a href="https://www.linkedin.com/in/orion-foley/">Cybersecurity Junior</a>, <a href="https://www.youtube.com/c/inputnewyoutubechannel">YouTuber</a></h1>
+<a href="https://www.linkedin.com/in/orion-foley/">Cybersecurity Junior</a>
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
