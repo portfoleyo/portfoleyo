@@ -3,8 +3,8 @@
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
-- 🍯 [Azure Sentinel SIEM Honeypot Home Lab](https://github.com/portfoleyo/LABURL)
-- 🌐 [Active Directory Home Lab](https://github.com/portfoleyo/LABURL)
+- 🍯 [Azure Sentinel (SIEM) Honeypot Home Lab](https://github.com/portfoleyo/AzureSentinelLab/)
+- 🌐 [Active Directory Home Lab - Coming Soon](https://github.com/portfoleyo/LABURL)
 
 <h2>📄 Certifications</h2>
 
@@ -13,7 +13,7 @@
   
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial: Azure Sentinel SIEM Honeypot Home Lab](input_tutorial)
+- [Tutorial: Azure Sentinel (SIEM) Honeypot Home Lab - Coming Soon](input_tutorial)
 
 
 <h2> 🤳🏾 Connect with me:</h2>
