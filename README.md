@@ -4,7 +4,7 @@
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
 - 🍯 [Azure Sentinel (SIEM) Honeypot Home Lab](https://github.com/portfoleyo/AzureSentinelLab/)
-- 🌐 [Active Directory Home Lab] - Coming Soon](https://github.com/portfoleyo/ActiveDirectoryHomeLab)
+- 🌐 [Active Directory Home Lab - Coming Soon](https://github.com/portfoleyo/ActiveDirectoryHomeLab)
 
 <h2>📄 Certifications</h2>
 
